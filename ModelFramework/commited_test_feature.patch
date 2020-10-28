@@ -1,0 +1,14 @@
+Index: src/main/resources/test.feature
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/resources/test.feature	(date 1603887501363)
++++ src/main/resources/test.feature	(date 1603887501363)
+@@ -0,0 +1,5 @@
++Feature:Test
++
++  Scenario: TestScenarios
++
++    Given i am on login
+\ No newline at end of file
